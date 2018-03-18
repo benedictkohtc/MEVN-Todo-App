@@ -21,4 +21,4 @@ npm run dev
 cd server
 npm test
 ```
-Detailed coverage can be found [here](server/coverage/index.html)
+After testing, detailed coverage can be found at `server/coverage/index.html`
